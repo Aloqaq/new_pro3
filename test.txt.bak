@@ -1,0 +1,7 @@
+hello world
+how are you
+<<<<<<< HEAD
+this is master
+=======
+good boy
+>>>>>>> branch1
